@@ -1,0 +1,44 @@
+[
+	{
+		"type": "raw",
+		"zo": 50,
+		"freq": 1,
+		"er": 1,
+		"freq_unit": {
+			"unit": "GHz",
+			"multiplier": 1000000000
+		},
+		"span": 0,
+		"span_unit": {
+			"unit": "MHz",
+			"multiplier": 1000000
+		}
+	},
+	{
+		"type": "bb",
+		"real": "2.00",
+		"imaginary": "4.00",
+		"abs": 100,
+		"abs_bb_i": 200,
+		"unit": "null",
+		"line_length": 0
+	},
+	{
+		"type": "tl",
+		"line_length": 0.0702,
+		"abs": 0.234,
+		"line_zo": 50,
+		"unit": "λ",
+		"real": "0.00",
+		"imaginary": "0.00"
+	},
+	{
+		"type": "ss",
+		"line_length": 0.01569,
+		"abs": 0.0523,
+		"line_zo": 50,
+		"unit": "λ",
+		"real": "0.00",
+		"imaginary": "0.00"
+	}
+]
